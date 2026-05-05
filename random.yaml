@@ -1,0 +1,10 @@
+app_name: my-service
+version: 2.4.1
+environment: production
+port: 8080
+debug: false
+max_connections: 100
+timeout: 30
+region: us-east-1
+log_level: info
+author: ojasvi
